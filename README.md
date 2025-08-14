@@ -1,4 +1,4 @@
-# Bluetooth Buddy
+# Offline Buddy
 
 When you're offline (no Wi-Fi or mobile data) you have no access to facilities that may help find a lost phone. So better not to lose it in the first place! Offline Buddy is intended for two people who are out and about together. It keeps your phone connected to your partner's and warns you if they become separated.
 
@@ -12,7 +12,7 @@ You’re wandering around the city when your partner suddenly realizes they can�
 
 There are many facilities to find your phone, but they all rely on tracking your cellphone or Wi-Fi connection, and of course the missing phone is offline, and so it is not tracked and not trackable.
 
-Enter **Bluetooth Buddy**, which was conceived from this real life situation.
+Enter **Offline Buddy**, which was conceived from this real life situation.
 
 With Buddy installed on both your phones, rerun the above scenario. You exit a shop and the Buddy alarm on your phone goes off. “Where’s your phone?” you ask your partner. “Oh \*\*\*\*, I left it on the counter when I paid”, and back they go to retrieve the phone. Disaster averted!
 

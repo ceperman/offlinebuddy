@@ -5,7 +5,7 @@ Welcome to the Offline Buddy app for Android.
 ### Data collected by the app
 
 This app does not collect, store or share any personally identifiable information.
-Data internal to the app (such as program preferences) is stored locally on the device. Some information may be exchanged with the app on the buddy device, but this is still data internal to Offline Buddy.
+Data internal to the app (such as program preferences) is stored locally on the device. Internal data is exchanged between the buddy devices as part of its operation but nothing is externalized or stored.
 
 ### Permissions requested in the app
 These permissions are used by the app:
@@ -21,8 +21,10 @@ These permissions are used by the app:
 | | |
 | `WAKE_LOCK`| Needed to prevent the device going to sleep while buddies are connected.  Automatically granted by the system; cannot be revoked by the user.|
 | | |
-| `DEVICE_ADMIN`| Requested if the screen locking option is enabled. If the permission is granted, the app becomes registered as a device admin app. Conversely, if the option was enabled and is disabled, the app is de-registered as an admin app. Be aware that while the app is registered as a device admin app it cannot be uninstalled. If uninstallation is required, either turn off the locking option in the app settings, or use the Android app settings to remove the device admin authority.|
+| `DEVICE_ADMIN*`| Requested if the screen locking option is enabled. If the permission is granted, the app becomes registered as a device admin app. Conversely, if the option was enabled and is disabled, the app is de-registered as an admin app. Be aware that while the app is registered as a device admin app it cannot be uninstalled. If uninstallation is required, either turn off the locking option in the app settings, or use the Android app settings to remove the device admin authority.|
 
-If you have any query regarding privacy or security in the app, you can contact me at offlinebuddy@ceperman.com
+\* full version only
 
-Chris Wood 2025
+If you have any query regarding privacy or security in the app, please contact offlinebuddy[@]ceperman[.]com
+
+Chris Wood 2026
